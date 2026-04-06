@@ -1,3 +1,5 @@
+package src;
+
 public class ContaRestaurante {
     private Cliente cliente;
     private Pedido pedido1;

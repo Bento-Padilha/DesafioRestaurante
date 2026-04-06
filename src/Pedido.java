@@ -1,3 +1,4 @@
+package src;
 public class Pedido {
     private String descricao;
     private double valorUnitario;
